@@ -2,7 +2,7 @@
 
 This project showcases an autonomous robot system leveraging ESP8266 and ESP32 microcontrollers for wireless communication, object recognition, and distance sensing. The system integrates various hardware components and software modules to achieve autonomous operation and data transmission over WiFi.
 
-##Hardware Components:
+Hardware Components:
 ESP8266 WiFi Module:
 
 The ESP8266 module is used for wireless communication, enabling the robot to send and receive data over WiFi.
@@ -62,5 +62,7 @@ The system reacts to user inputs and environmental changes, adjusting its behavi
 
 
 ![image](https://user-images.githubusercontent.com/62358739/115599752-90573200-a2a1-11eb-84f8-86e12ba0e09a.png)
+
+Link video:
 
 [![Alt text](https://img.youtube.com/vi/YQLe4zgnGYg/0.jpg)](https://www.youtube.com/watch?v=YQLe4zgnGYg)
